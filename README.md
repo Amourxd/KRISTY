@@ -1,6 +1,6 @@
 # KRISTY
  🛸Powerful Telegram Group Management Bot To Manage Your Group🛸🩸.
-![ᴋʀɪꜱᴛʏ](https://th.bing.com/th/id/OIP.hzsGP0ZSS9GpWcWaeDAQQgHaHa?pid=ImgDet&rs=1)
+![ᴋʀɪꜱᴛʏ](https://te.legra.ph/file/a7879d8e4e3f183416c34.jpg?pid=ImgDet&rs=1)
 # ᴜɴᴍᴀɪɴᴛᴀɪɴᴇᴅ
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+KRISTY+AN+ADVANCE+BOT)](https://github.com/Amourxd/KRISTY)
@@ -11,7 +11,7 @@
 
 </h3>
 <p align="center">
-<a href="https://telegram.me/link_copied"><img src="https://img.shields.io/badge/-Support%20Group-grey.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/link_copied"><img src="https://img.shields.io/badge/-Support%20Group-green.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
 <a href="https://telegram.me/ilexupdates"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
