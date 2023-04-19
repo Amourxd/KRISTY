@@ -353,7 +353,7 @@ def info(update: Update, context: CallbackContext):
                 [
                     [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://telegra.ph/ᴀʟᴏɴᴇ-02-15"),
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/Arnavserver/59"),
                             InlineKeyboardButton(
                                 "ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}")
                     ],
